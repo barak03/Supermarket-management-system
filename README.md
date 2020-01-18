@@ -7,7 +7,7 @@ The project uses Java.\
 The system can manage employees by adding and editing their details and the same goes for customer management and store inventory management and in addition the system has a screen for the cashier.\
 For each product added to the receipt the same quantity is reduced from the inventory.\
 The system uses .dat files that do not require additional software installation in order for the system to work.\
-in the code there is separation between the view from the "behind-the-scenes" code (like using an API) You can change the logic of the code without changing anything in the view.\
+in the code there is separation between the view from the "behind-the-scenes" code (like using an API) You can change the logic of the code without changing anything in the view.
 
 ### Log in screen
 ![Log in screen](https://github.com/barak03/Supermarket-management-system/blob/master/images/Log%20in%20screen.png)
